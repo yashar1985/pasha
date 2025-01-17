@@ -1,5 +1,4 @@
-# پاشا{
-  "log": {
+ "log": {
     "level": "warn",
     "output": "box.log",
     "timestamp": true
